@@ -26,5 +26,7 @@ def move(n, source, auxiliary, target):
     move(n - 1, auxiliary, source, target)
 
 
-# initiate call from source A to target C with auxiliary B
-move(NUMBER_OF_DISKS, A, B, C)
+# Ensure the code won't run when imported as a module
+if __name__ == "__main__":
+    # initiate call from source A to target C with auxiliary B
+    move(NUMBER_OF_DISKS, A, B, C)
