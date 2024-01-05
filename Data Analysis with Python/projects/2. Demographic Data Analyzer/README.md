@@ -23,7 +23,7 @@ What country has the highest percentage of people that earn >50K and what is tha
 Identify the most popular occupation for those who earn >50K in India.
 Use the starter code in the file ```demographic_data_analyzer```. Update the code so all variables set to "None" are set to the appropriate calculation or code. Round all decimals to the nearest tenth.
 
-Unit tests are written for you under test_module.py.
+Unit tests are written for you under ```test_module.py```.
 
 # Dataset source
 Dua, D. and Graff, C. (2019). [UCI Machine Learning Repository](https://archive.ics.uci.edu/). Irvine, CA: University of California, School of Information and Computer Science.
